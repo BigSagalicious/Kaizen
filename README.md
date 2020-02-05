@@ -1,2 +1,0 @@
-# Kaizen
-Final year project
